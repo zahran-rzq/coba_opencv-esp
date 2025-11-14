@@ -9,3 +9,5 @@
 # Keep this folder and its contents
 !simple_serial_viewer/
 !simple_serial_viewer/**
+
+!README.md
