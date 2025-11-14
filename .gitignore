@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Keep these files
+!.gitignore
+!simple_cv.py
+!test_btserial.py
+
+# Keep this folder and its contents
+!simple_serial_viewer/
+!simple_serial_viewer/**
