@@ -11,4 +11,8 @@
 !simple_serial_viewer/**
 !bt_esp_simple_motor/**
 
+!worked
+
+!esp_direct_motor/**
+
 !README.md
