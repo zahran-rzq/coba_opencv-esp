@@ -9,5 +9,6 @@
 # Keep this folder and its contents
 !simple_serial_viewer/
 !simple_serial_viewer/**
+!bt_esp_simple_motor/**
 
 !README.md

@@ -11,7 +11,7 @@ void setup() {
   Serial.begin(115200);
   
   // Inisialisasi Bluetooth dengan nama device
-  SerialBT.begin("ESP32_Simple"); 
+  SerialBT.begin("ESP32_SimpleAdmin"); 
   Serial.println("Bluetooth Started! Device name: ESP32_Simple");
   Serial.println("Waiting for connection...");
 }

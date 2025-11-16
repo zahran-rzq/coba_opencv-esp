@@ -130,18 +130,18 @@ def main():
                 if angle < -20:
                     cv2.putText(image, f"Turn Left", (10, 70),
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-                    if send_serial('L'):
-                        print("L")
+                    # if send_serial('L'):
+                    print("L")
                 elif angle > 20:
                     cv2.putText(image, f"Turn Right", (10, 70),
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-                    if send_serial('R'):
-                        print("R")
+                    # if send_serial('R'):
+                    print("R")
                 else:
                     cv2.putText(image, f"Forward", (10, 70),
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-                    if send_serial('F'):
-                        print("F")
+                    # if send_serial('F'):
+                    print("F")
 
                     
         # Tampilkan gambar
