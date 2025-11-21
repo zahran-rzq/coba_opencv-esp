@@ -10,8 +10,6 @@
 # Keep these folders and their contents
 !simple_serial_viewer/
 !simple_serial_viewer/**
-# !bt_esp_simple_motor/
-# !bt_esp_simple_motor/**
 !udp_worked/
 !udp_worked/**
 !esp_udp_motor/
