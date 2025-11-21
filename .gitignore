@@ -5,14 +5,14 @@
 !.gitignore
 !simple_cv.py
 !test_btserial.py
+!README.md
 
-# Keep this folder and its contents
+# Keep these folders and their contents
 !simple_serial_viewer/
 !simple_serial_viewer/**
+!bt_esp_simple_motor/
 !bt_esp_simple_motor/**
+!udp_worked/
 !udp_worked/**
-# !worked
-
-# !esp_direct_motor/**
-
-!README.md
+!esp_udp_motor/
+!esp_udp_motor/**
