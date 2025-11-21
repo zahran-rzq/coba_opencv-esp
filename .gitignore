@@ -8,9 +8,9 @@
 !README.md
 
 # Keep these folders and their contents
-!simple_serial_viewer/
-!simple_serial_viewer/**
-!udp_worked/
-!udp_worked/**
-!esp_udp_motor/
-!esp_udp_motor/**
+# !simple_serial_viewer/
+# !simple_serial_viewer/**
+# !udp_worked/
+# !udp_worked/**
+# !esp_udp_motor/
+# !esp_udp_motor/**
