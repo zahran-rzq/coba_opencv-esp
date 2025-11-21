@@ -10,9 +10,9 @@
 !simple_serial_viewer/
 !simple_serial_viewer/**
 !bt_esp_simple_motor/**
+!udp_worked/**
+# !worked
 
-!worked
-
-!esp_direct_motor/**
+# !esp_direct_motor/**
 
 !README.md
