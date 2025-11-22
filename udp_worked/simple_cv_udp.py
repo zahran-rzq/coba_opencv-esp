@@ -5,7 +5,7 @@ import socket
 import time
 
 # Konfigurasi UDP untuk ESP32
-UDP_IP = "192.168.1.39"  # Ganti dengan IP ESP32 Anda
+UDP_IP = "192.168.173.115"  # Ganti dengan IP ESP32 Anda
 UDP_PORT = 4210
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
